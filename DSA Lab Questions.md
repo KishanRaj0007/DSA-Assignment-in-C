@@ -12,15 +12,16 @@
 
 ➢ The contents of a stack S are as follows: 
 
+```
 Stack(S)  Index 
-99        0           
+99        0      2 
 20        1
 4         2
 27        3
           4
           5
           6
-
+```
             
 o The Stack can store a maximum of seven elements and the top pointer currently 
 points at index 3. Write a program to show the stack contents and indicate the position 
