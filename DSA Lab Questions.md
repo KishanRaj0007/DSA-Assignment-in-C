@@ -11,6 +11,7 @@
 ## QUESTION 3
 
 ➢ The contents of a stack S are as follows: 
+
 Stack(S)  Index 
 99        0           
 20        1
